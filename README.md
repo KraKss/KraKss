@@ -1,9 +1,9 @@
 ### Hi there, I'm KraKss
 
 <details>
-  <summary>The early bird catches the worm</summary>
+  <summary>Every day fuck 12</summary>
  Meaning : <br>
- Success comes to those who show effort and preparation.
+ I'm a nice guy cops it's a reference to Trilogie - Osirus Jack where Kaki Santana says "Every day fuck 12 in French".  
 </details> 
 
 <br>
