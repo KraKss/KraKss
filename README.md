@@ -3,7 +3,7 @@
 <details>
   <summary>Every day f*ck 12</summary>
  Meaning : <br>
- I'm a nice guy cops it's a reference to Trilogie - Osirus Jack where Kaki Santana says "Every day f*ck 12" in French.  
+ I'm a nice guy cops it's a reference to Trilogie - Osirus Jack where Kaki Santana says "Every day f*ck 12" in French sorry fam.  
 </details> 
 
 <br>
