@@ -23,6 +23,8 @@
 ## 📌 Repositories
 <br>
 <a href="https://github.com/KraKss/vGOFAST">
+  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=KraKss&repo=vGOFAST&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=0A0C10" />
+</a>
 <a href="https://github.com/KraKss/vWhiten">
   <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=KraKss&repo=vWhiten&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=0A0C10" />
 </a>
