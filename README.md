@@ -1,9 +1,9 @@
 ### Hi there, I'm KraKss
 
 <details>
-  <summary>Every day f*ck 12</summary>
+  <summary>A journey of a thousand miles begins with a single step</summary>
  Meaning : <br>
- I'm a nice guy cops it's a reference to Trilogie - Osirus Jack where Kaki Santana says "Every day f*ck 12" in French sorry fam.  
+ You must begin something if you hope to finish it; something that takes a long time to finish begins with one step  
 </details> 
 
 <br>
