@@ -20,7 +20,6 @@
 
 <br>
 
-[![wakatime](https://wakatime.com/badge/github/KraKss/KraKss.svg)](https://wakatime.com/badge/github/KraKss/KraKss)
 ## 📌 Repositories
 <a href="https://github.com/KraKss/vWeaponShop">
   <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=KraKss&repo=vWeaponShop&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=0A0C10" />
