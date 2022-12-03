@@ -18,6 +18,7 @@
   <img align="left" width="12.6%" src="https://img.shields.io/badge/KraKss-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 
+  https://wakatime.com/badge/github/KraKss/KraKss.svg
 <br>
 
 ## 📌 Repositories
